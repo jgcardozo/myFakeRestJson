@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 001,
+      "category": "humanity",
+      "title": "Dog Adoption Day",
+      "description": "Help pick up trash along the shore.",
+      "location": "Lazarolandia floralia",
+      "date": "August 28, 2024",
+      "time": "12:00",
+      "organizer": "John Alex"
     }
   ]
 }
